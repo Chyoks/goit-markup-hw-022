@@ -26,7 +26,7 @@ color: #2E2F42;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
-letter-spacing: 0.01em;
+letter-spacing: 0.02em;
 }
 .nav-link:hover,
 .nav-link:focus{
@@ -63,7 +63,14 @@ background: #4D5AE5;
 box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 color: #FFF;
 cursor: pointer;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+
 }
+.button-first:hover,
 .button-first:hover{
 background-color: #404BBF;
 }
@@ -94,10 +101,20 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
+.section-third{
+    background: #F4F4FD;
+}
+.section-third-line{
+    background-color: #FFFFFF;
+}
 .footer{
     background-color: #2E2F42;
     color: #F4F4FD;
 }
 .logo-part-footer{
     color: #F4F4FD;
+}
+.footer-par{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
