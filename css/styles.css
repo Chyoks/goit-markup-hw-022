@@ -58,7 +58,6 @@ line-height: 1.07; /* 107.143% */
 letter-spacing: 0.02em;
 }
 .button-first {
-border-radius: 4px;
 background: #4D5AE5;
 color: #FFF;
 cursor: pointer;
