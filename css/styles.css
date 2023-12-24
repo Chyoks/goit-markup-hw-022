@@ -1,5 +1,5 @@
 body{
-    font-family: "roboro", sans-serif;
+    font-family: "roboto", sans-serif;
     color: #434455;
     background-color: #FFF;
 }
@@ -10,8 +10,8 @@ ul, ol{
     list-style: none;
 }
 .logo {
-    color: #4D5AE5;
-    font-family: Raleway, sans-serif;
+color: #4D5AE5;
+font-family: Raleway, sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17; 
