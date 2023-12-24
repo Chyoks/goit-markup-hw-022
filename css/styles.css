@@ -71,7 +71,7 @@ letter-spacing: 0.04em;
 
 }
 .button-first:hover,
-.button-first:hover{
+.button-first:focus{
 background-color: #404BBF;
 }
 .skill-title {
